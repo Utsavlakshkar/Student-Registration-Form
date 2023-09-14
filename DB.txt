@@ -1,0 +1,4 @@
+create table Interest933(id number primary key, interest varchar2(15));
+insert into Interest933 values(1,'PROGRAMMING');
+insert into Interest933 values(2,'GAMING');
+select * from Interest933;
